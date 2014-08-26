@@ -1,17 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\User\Documents\RAD Studio\Projects\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,C:\Users\User\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\User\Documents\RAD Studio\Projects\test\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\User\Documents\RAD Studio\Projects\test\Project2.cbproj=C:\Users\User\Documents\RAD Studio\Projects\test\Помощник.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,C:\Users\User\Documents\RAD Studio\Projects\test\INIReader.h=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,C:\Users\User\Documents\RAD Studio\Projects\test\INIReader.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.322,=C:\Users\User\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.dfm=C:\Users\User\Documents\RAD Studio\Projects\test\Форма.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.dfm=C:\Users\User\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\User\Documents\RAD Studio\Projects\test\Помощник.cbproj=C:\Users\User\Documents\RAD Studio\Projects\test\Project2.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.181,C:\Users\User\Documents\RAD Studio\Projects\test\Project2.cbproj=C:\Users\User\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.496,C:\Users\User\Documents\RAD Studio\Projects\test\ПомощникPCH1.h=C:\Users\User\Documents\RAD Studio\Projects\test\Project2PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\User\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,C:\Users\User\Documents\RAD Studio\Projects\test\HelperFunctions.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Helpfunctionser.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,C:\Users\User\Documents\RAD Studio\Projects\test\HelperFunctions.h=C:\Users\User\Documents\RAD Studio\Projects\test\Helpfunctionser.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\User\Documents\RAD Studio\Projects\test\ini.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,=C:\Users\User\Downloads\inih_r29\ini.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\User\Downloads\inih_r29\ini.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,C:\Users\User\Documents\RAD Studio\Projects\test\Project2PCH1.h=C:\Users\User\Documents\RAD Studio\Projects\test\ПомощникPCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.310,=C:\Users\User\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.439,C:\Users\User\Documents\RAD Studio\Projects\test\Project2PCH1.h=C:\Users\User\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\test\Форма.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\Unit2.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Форма.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\User\Documents\RAD Studio\Projects\test\Helpfunctionser.h=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\User\Documents\RAD Studio\Projects\test\ini.h=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\User\Documents\RAD Studio\Projects\test\Helpfunctionser.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\User\Documents\RAD Studio\Projects\test\Форма.h=C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,C:\Users\User\Documents\RAD Studio\Projects\Project2PCH1.h=C:\Users\User\Documents\RAD Studio\Projects\test\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\User\Documents\RAD Studio\Projects\test\Форма.dfm=C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\User\Documents\RAD Studio\Projects\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.869,C:\Users\User\Documents\RAD Studio\Projects\test\Форма.cpp=C:\Users\User\Documents\RAD Studio\Projects\test\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,=C:\Users\User\Documents\RAD Studio\Projects\test\Unit1.cpp</Transaction>
   </Transactions>
 </BorlandProject>

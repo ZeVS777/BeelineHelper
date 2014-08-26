@@ -4,7 +4,7 @@ object FormMain: TFormMain
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = #1055#1086#1084#1086#1097#1100' '#1090#1077#1093#1085#1080#1082#1072
-  ClientHeight = 281
+  ClientHeight = 280
   ClientWidth = 243
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -13,6 +13,7 @@ object FormMain: TFormMain
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
@@ -962,5 +963,13 @@ object FormMain: TFormMain
     Height = 17
     Caption = '115200'
     TabOrder = 8
+  end
+  object EditComPort: TEdit
+    Left = 24
+    Top = 283
+    Width = 120
+    Height = 21
+    TabOrder = 9
+    Text = 'COM3'
   end
 end

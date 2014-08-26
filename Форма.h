@@ -24,9 +24,11 @@ __published:	// IDE-managed Components
 	TLabel *Label2;
 	TLabel *Label3;
 	TLabel *Label4;
+	TEdit *EditComPort;
 	void __fastcall ButtonCopyToClipboardClick(TObject *Sender);
 	void __fastcall ButtonTextFileClick(TObject *Sender);
 	void __fastcall ButtonPuttyClick(TObject *Sender);
+	void __fastcall FormCreate(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TFormMain(TComponent* Owner);

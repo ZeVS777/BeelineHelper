@@ -46,6 +46,8 @@
         <Base>true</Base>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Base)'!=''">
+        <ILINK_LibraryPath>..\..\..\..\Downloads\inih_r29\;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+        <IncludePath>..\..\..\..\Downloads\inih_r29\;$(IncludePath)</IncludePath>
         <AllPackageLibs>rtl.lib;vcl.lib</AllPackageLibs>
         <DCC_Namespace>System;Xml;Data;Datasnap;Web;Soap;Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell;$(DCC_Namespace)</DCC_Namespace>
         <ProjectType>CppVCLApplication</ProjectType>
@@ -117,6 +119,10 @@
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
     </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="HelperFunctions.cpp">
+            <DependentOn>HelperFunctions.h</DependentOn>
+            <BuildOrder>3</BuildOrder>
+        </CppCompile>
         <CppCompile Include="Помощник.cpp">
             <BuildOrder>0</BuildOrder>
         </CppCompile>
